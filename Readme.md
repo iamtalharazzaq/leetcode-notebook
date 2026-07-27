@@ -19,7 +19,7 @@ This repository follows a curated roadmap of **120 interview-focused LeetCode pr
 
 | Topic | Progress |
 |--------|:--------:|
-| Arrays & Hashing | 3 / 9 |
+| Arrays & Hashing | 4 / 9 |
 | Two Pointers | 0 / 5 |
 | Sliding Window | 0 / 5 |
 | Stack | 0 / 5 |
@@ -38,7 +38,7 @@ This repository follows a curated roadmap of **120 interview-focused LeetCode pr
 | Intervals | 0 / 1 |
 | Design | 0 / 1 |
 
-**Overall Progress:** **3 / 120** 🎯
+**Overall Progress:** **4 / 120** 🎯
 
 ## Goals
 
